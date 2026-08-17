@@ -149,4 +149,8 @@ while(n>0){
  }
 
  //level 14
- //task
+ //task10 functions
+ function newpara(parameter){
+    console.log("hi");
+    
+ }
