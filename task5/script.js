@@ -147,10 +147,11 @@ while(n>0){
     console.log("Account Blocked");
     
  }
-
- //level 14
- //task10 functions
- function newpara(parameter){
-    console.log("hi");
-    
+ //Level4 Functions
+ //task 10- salary calculator
+ function calculateSalary(basicSalary, bonus){
+    return basicSalary+ bonus;
  }
+ let totalSalary=calculateSalary(30000,5000);
+ console.log(totalSalary);
+ 
